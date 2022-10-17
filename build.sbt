@@ -4,5 +4,6 @@ organization     := "com.guizmaii.kafka.oom.reproducer"
 organizationName := "Guizmaii"
 name             := "KAFKA-4090"
 
-libraryDependencies += "org.apache.kafka" % "kafka-clients" % "3.2.3"
+libraryDependencies += "org.apache.kafka" % "kafka-clients" % "2.1.0"
+//libraryDependencies += "org.apache.kafka" % "kafka-clients" % "3.2.3"
 //libraryDependencies += "org.apache.kafka" % "kafka-clients" % "3.3.1"
